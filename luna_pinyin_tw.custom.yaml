@@ -1,5 +1,0 @@
-patch:
-  "speller/use_space": true
-  "menu/page_size": 9
-  "key_binder/bindings":
-    - { when: has_menu, accept: Return, send: space }
