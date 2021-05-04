@@ -3,3 +3,4 @@ patch:
   "speller/delimiter": " ;"
   "key_binder/bindings":
     - { when: has_menu, accept: Return, send: space }
+  "switches/@0/reset": 1
